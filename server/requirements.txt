@@ -1,0 +1,4 @@
+Django 
+Numpy
+Pandas
+Sxikit-learn
